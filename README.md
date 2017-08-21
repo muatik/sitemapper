@@ -3,6 +3,7 @@ A python application that generate a site map. Starting from the given url, it t
 
 [![Build Status](https://travis-ci.org/muatik/sitemapper.svg?branch=master)](https://travis-ci.org/muatik/sitemapper)
 
+
 ### Run
 ```sh
 git clone git@github.com:muatik/sitemapper.git
